@@ -5,7 +5,8 @@
 3) Run the program and you will get 3 new windows with original, proecessing and final image.
 4) The output will also be displayed on your IDE.
 
-![image](https://user-images.githubusercontent.com/73647801/210155748-753f7e13-6584-4be7-8a0a-a0fa0b84ce5c.png)
+![image](https://user-images.githubusercontent.com/73647801/210155769-546eba48-804a-40f7-8fb1-805dc1250eb0.png)
+
 
 
 
