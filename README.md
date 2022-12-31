@@ -4,3 +4,6 @@
 2) Change the path to the input image.
 3) Run the program and you will get 3 new windows with original, proecessing and final image.
 4) The output will also be displayed on your IDE.
+
+![image](https://user-images.githubusercontent.com/73647801/210155698-ee074df4-30f1-4184-b22d-91281a9f68dc.png)
+
