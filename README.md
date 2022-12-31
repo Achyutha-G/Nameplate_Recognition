@@ -6,6 +6,8 @@
 4) The output will also be displayed on your IDE.
 
 ![image](https://user-images.githubusercontent.com/73647801/210155769-546eba48-804a-40f7-8fb1-805dc1250eb0.png)
+![image](https://user-images.githubusercontent.com/73647801/210155800-d911ce57-d95f-4934-a3e3-d8b5507a62b2.png)
+
 
 
 
