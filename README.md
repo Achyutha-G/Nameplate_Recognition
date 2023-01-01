@@ -1,4 +1,4 @@
-# Nameplate_Recognition_Robotics_Club
+# Numberplate_Recognition_Robotics_Club
  Python Program to process an img of car with number plate and give the car number as the output.
 1) Install all the required libraries by using pip install -r requirements. txt in the directory of the downloaded files.
 2) Change the path to the input image.
