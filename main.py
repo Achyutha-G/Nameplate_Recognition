@@ -2,13 +2,6 @@ import cv2
 import numpy as np
 import easyocr
 
-# I have Imported ssl as I had a small error in my laptop because chrome is not the defalut browser. To bypass
-# this I had to explicitly mention not to verify user certificates in chrome.
-
-import ssl
-
-ssl._create_default_https_context = ssl._create_unverified_context
-
 # Take the img input from the user. Change the path to that of your computer
 # Use an image where the car number plate is placed in a similar position as that of the
 # given images as I have not optimized the code for skewed number plates.
